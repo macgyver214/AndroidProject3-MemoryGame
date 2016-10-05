@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="border_color">#7f7f7f</color>
+    <color name="field_color">#44b5cee0</color>
+    <color name="back_button_Background">#10b5cee0</color>
+    <color name="dark_border_color">#4f4f4f</color>
+    <color name="tile_color">#FFD3D3D3</color>
+    <color name="board_background">#FFA9A9A9</color>
+    <color name="cleared_color">#FF32CD32</color>
+</resources>

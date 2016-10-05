@@ -1,0 +1,28 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/fragment_padding"
+    android:orientation="vertical"
+    android:elevation="@dimen/fragment_elevation"
+    android:background="@drawable/menu_background"
+    tools:context="com.example.macgyver.memorygame.TitleFragment">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/memory_match"
+        android:textAppearance="?android:textAppearanceLarge"
+        android:textSize="@dimen/title_size"/>
+
+    <Button
+        android:id="@+id/newgame_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/button_margin"
+        android:padding="@dimen/fragment_padding"
+        android:text="@string/newgame_text"
+        android:layout_gravity="center"/>
+
+</LinearLayout>
